@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "GitHub.copilot",
+  "editor.wordWrap": "on"
+}
